@@ -57,7 +57,6 @@ Model disusun dari **oktahedron berlapis (5 ring × 6 oktahedron)** yang membent
 │   ├── VAO.cpp
 │   └── VBO.cpp
 ├── crystal.exe
-├── crystal.zip
 └── glfw3.dll
 ```
 ---
