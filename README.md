@@ -5,9 +5,13 @@ Proyek ini menampilkan model 3D **Quintoctet Crystal** menggunakan **C++**, **Op
 Model disusun dari **oktahedron berlapis (5 ring × 6 oktahedron)** yang membentuk pola kristal simetris dengan pencahayaan, pewarnaan, transformasi interaktif, dan rotasi (manual&otomatis).
 
 Proyek ini berganggotakan 3 orang
+
 Ketua  : Jonathan Alexander(03082230031)
+
 Anggota: Misellin Mindany  (03082230005)
+
          Felicia Alexandra (03082230015)
+         
 ---
 
 ## 🚀 Fitur Utama
